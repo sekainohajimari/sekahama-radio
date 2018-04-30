@@ -1,13 +1,17 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+  ushisantoasobu:
+    image_url: /images/actors/ushisantoasobu.png
+    name: ushisantoasobu
+    url: https://twitter.com/ushisantoasobu
+  hiro:
+    image_url: /images/actors/hiro.png
+    name: hiro
+    url: https://twitter.com/hiro2969
   bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
+    image_url: /images/actors/fukuiretu.png
+    name: fukuiretu
+    url: https://twitter.com/fukuiretu
+author: ushisantoasobu
 description: Example description
 description_long: Example long description
 email: info@example.com
