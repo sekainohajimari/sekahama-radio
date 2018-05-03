@@ -13,7 +13,7 @@ actors:
     url: https://twitter.com/fukuiretu
 author: ushisantoasobu
 description: エンジニアとデザイナーのおっさん3人が働き方や興味のあることを話すポッドキャストです。
-description_long: エンジニアとデザイナーのおっさん3人が働き方や興味のあることを話すポッドキャストです。
+description_long: エンジニアとデザイナーのおっさん3人が働き方や興味のあることを話すポッドキャスト
 email: fukuiretu@gmail.com
 exclude:
   - docker
