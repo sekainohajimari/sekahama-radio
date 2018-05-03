@@ -12,9 +12,9 @@ actors:
     name: fukuiretu
     url: https://twitter.com/fukuiretu
 author: ushisantoasobu
-description: Example description
-description_long: Example long description
-email: info@example.com
+description: エンジニアとデザイナーのおっさん3人が働き方や興味のあることを話すポッドキャストです。
+description_long: エンジニアとデザイナーのおっさん3人が働き方や興味のあることを話すポッドキャストです。
+email: fukuiretu@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -24,7 +24,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: セカハマラジオ
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
@@ -33,5 +33,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: セカハマラジオ
+url: https://sekainohajimari.github.io/sekahama-radio
