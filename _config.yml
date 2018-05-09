@@ -26,7 +26,7 @@ exclude:
 google_analytics:
 hashtag: セカハマラジオ
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: エンジニア,デザイナー,働き方,技術,web
 language: ja
 markdown: kramdown
 permalink: /episode/:title
